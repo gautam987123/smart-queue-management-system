@@ -12,7 +12,7 @@ The system allows users to:
 - See live queue status
 
 ##  Technologies Used
-- Java (Queue logic - conceptual)
+- Java (Queue logic implemented using core data structures)
 - Lovable (UI generation)
 
 ## Live Demo
@@ -44,4 +44,5 @@ The system allows users to:
 
 👩‍💻 Developed by: Gautam A and Aditi A Kushtagi 
 🎓 3rd Semester ISE Student
+
 
